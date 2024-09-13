@@ -1,4 +1,4 @@
-### By Cagri Arslan ###
+### By C.A. ###
 # Works by finding the term "a/b" (ie. 3/20) on the last line of each page, deletes all duplicates but the last one, leaving the final "phased in" PDF
 # Should function propeerly as long as you maintain the page counter on the bottom right corner of the slides.
 # Last line defined as bottommost line when read, ie ('MECH-383 (F A 2024), McGill University', 'Applied Electronics and Instrumentation22/26'])
